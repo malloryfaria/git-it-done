@@ -25,7 +25,7 @@ Users can click on a language button to see a list of featured repos that use th
 Live
 
 ## Deployed application
-https://malloryfaria.github.io/work-day-scheduler/
+https://malloryfaria.github.io/git-it-done/
  
 ## Screenshots
 
